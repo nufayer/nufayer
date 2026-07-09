@@ -128,15 +128,11 @@ A full-stack pet adoption platform with authentication, adoption requests, and p
 
 ---
 
-<p align="center">
-
-> while(alive){
->     Learn();
->     Build();
->     Break();
->     Fix();
->     Repeat();
-> }
-> 
-</p>
+while(alive){
+    Learn();
+    Build();
+    Break();
+    Fix();
+    Repeat();
+}    
 
