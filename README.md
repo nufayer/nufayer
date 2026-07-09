@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Learning+Cybersecurity;Exploring+Artificial+Intelligence;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=700a11&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Learning+Cybersecurity;Exploring+Artificial+Intelligence;Always+Learning+Something+New" />
 </p>
 
 ---
@@ -128,11 +128,9 @@ A full-stack pet adoption platform with authentication, adoption requests, and p
 
 ---
 
-while(alive){
-    Learn();
-    Build();
-    Break();
-    Fix();
-    Repeat();
-}    
+<p align="center">
+
+"Code. Learn. Secure. Repeat."
+
+</p>
 
