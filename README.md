@@ -77,7 +77,7 @@ Currently Learning:
 
 Machine Learning model capable of detecting phishing websites with **96.7% accuracy**.
 
-> Python • Flask • Scikit-Learn • Random Forest
+> Python • Flask • Scikit-Learn • LightGBM
 
 ---
 
@@ -101,15 +101,15 @@ A full-stack pet adoption platform with authentication, adoption requests, and p
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nufayer&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nufayer&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=nufayer&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -119,7 +119,7 @@ A full-stack pet adoption platform with authentication, adoption requests, and p
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?nufayer=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4"/>
 
 </p>
 
@@ -139,15 +139,15 @@ A full-stack pet adoption platform with authentication, adoption requests, and p
 
 <p>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/nufayer">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/nufayer-mahmud009">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:nufayer6543@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
