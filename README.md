@@ -97,33 +97,6 @@ A full-stack pet adoption platform with authentication, adoption requests, and p
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nufayer&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nufayer&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=nufayer&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?nufayer=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4"/>
-
-</p>
-
----
 
 # 📊 Contribution Graph
 
@@ -157,7 +130,13 @@ A full-stack pet adoption platform with authentication, adoption requests, and p
 
 <p align="center">
 
-> *"Code. Learn. Secure. Repeat."*
-
+> while(alive){
+>     Learn();
+>     Build();
+>     Break();
+>     Fix();
+>     Repeat();
+> }
+> 
 </p>
 
